@@ -15,3 +15,7 @@
 
 # Minimum Sistem Gereksinimleri
 - .....
+
+# Tüm Oyunlarım
+- [Bruhland](https://github.com/Raciuzz/BruhlandGame/)
+- [Yıldız Avı](https://github.com/Raciuzz/Yildiz-Avi/)
